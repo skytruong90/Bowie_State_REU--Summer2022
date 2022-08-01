@@ -17,5 +17,5 @@
 ## This is the poster:
 <img src="" width="400">
 
-## This is the presentation:
+## This is our presentation:
 <img src="presentation.png" width="500">
