@@ -18,4 +18,4 @@
 <img src="" width="400">
 
 ## This is the presentation:
-<img src="presentation.png" width="500">(https://github.com/skytruong90) 
+<img src="presentation.png" width="500">
