@@ -13,6 +13,9 @@
 - [Khalil]
 - [David Tan](https://github.com/skytruong90)
 
+### Faculty Mentor: 
+- Dr. David E Anyiwo
+<img src="" width="300">
 
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder `Our Presentation`
