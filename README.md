@@ -15,7 +15,7 @@
 3. The paper can be view by clicking on the `Research Paper.pdf`
 
 ## This is the paper:
-<img src="" width="320">
+<img src="Paper pic.png" width="400">
 
 ## This is the poster:
 <img src="poster.png" width="600">
