@@ -10,9 +10,9 @@
 ## Our Objective: 
 
 ## How view the paper, poster, and presentation:
-1. In order to view the full presentation, go to the folder `Our Presentation`
-2. The poster can be view by going to the poster image 
-3. The paper can be view going to the `Research Paper.pdf`
+1. In order to view the full presentation, going to the folder `Our Presentation`
+2. The poster can be view by clicking on the `poster.png`
+3. The paper can be view by clicking on the `Research Paper.pdf`
 
 ## This is the paper:
 <img src="" width="320">
