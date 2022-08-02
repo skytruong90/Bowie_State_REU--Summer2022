@@ -1,7 +1,7 @@
 # This is the REU for Bowie State University in Cybersecurity
 
 ## NSF funds a large number of research opportunities for undergraduate students through its REU Sites program. An REU Site consists of a group of ten or so undergraduates who work in the research programs of the host institution. Each student is associated with a specific research project, where he/she works closely with the faculty and other researchers. 
-<img src="NSF pic.jpg" width="300">
+<img src="NSF pic.jpg" width="250">
 
 
 # Title: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
