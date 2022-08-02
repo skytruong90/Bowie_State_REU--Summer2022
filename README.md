@@ -5,7 +5,7 @@
 <img src="NSF pic.jpg" width="250">
 
 
-# Title: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
+# The title of our research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
 ### Team members: 
 - [Syndey]
