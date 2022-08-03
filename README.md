@@ -20,7 +20,7 @@
 <img src="anywio.jpg" width="200">
 
 ## How view the paper, poster, and presentation:
-1. In order to view the full presentation, going to the folder `Our Presentation`
+1. In order to view the full presentation, go to the folder `Our Presentation`
 2. The full poster can be view by clicking on the `poster.jpg`
 3. The full paper can be view by clicking on the `Research Paper.pdf`
 
