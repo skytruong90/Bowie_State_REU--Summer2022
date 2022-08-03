@@ -21,14 +21,14 @@
 
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder `Our Presentation`
-2. The full poster can be view by clicking on the `poster.png`
+2. The full poster can be view by clicking on the `poster.pdf`
 3. The full paper can be view by clicking on the `Research Paper.pdf`
 
 ## Our research paper:
 <img src="Paper pic.png" width="400">
 
 ## Our research poster:
-<img src="poster.png" width="600">
+<img src="poster.pdf" width="600">
 
 ## This is our presentation:
 <img src="presentation.png" width="600">
